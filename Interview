@@ -1,0 +1,143 @@
+<style>
+@font-face {
+ font-family: Dreaming of Lilian;
+ src: url("https://cdn.statically.io/gh/Audreyscodes/fonts/c9d262dc/Dreaming%20of%20Lilian.ttf");}
+ 
+@font-face {
+font-family: Signature;
+ src: url("https://cdn.statically.io/gh/Audreyscodes/fonts/57373e5a/Quick%20Signature%20Personal%20Use.otf");
+}
+ 
+/*Scrollbar*/
+::-webkit-scrollbar {width: 5px;}
+::-webkit-scrollbar-track {background:#999}
+::-webkit-scrollbar-thumb {background: #008000;}
+::-webkit-scrollbar-thumb:hover {background: #80c080;}
+ 
+.background {
+    width:640px;
+    background:url('https://images-ext-2.discordapp.net/external/7mUYtZDUAaP2ly58dWj9oJiaJG2ZFtxygymBellmE4c/https/image.freepik.com/free-photo/paper-texture-with-pattern_107441-37.jpg')center;
+    padding:10px;
+    border:1px solid
+}
+ 
+.header {
+    display:flex;
+    padding:10px;
+    margin-top:0px
+}
+ 
+.edition {
+    font-family:courier new,monospace;
+    font-size:17px;
+    text-transform:uppercase;
+    width:100%;
+    float:right;
+}
+ 
+.pic {
+    width:70px;
+    height:70px;
+    outline:1px dashed #000;
+    outline-offset:5px;
+    float:right;
+    padding:10px
+}
+ 
+.name {
+    color:#00888a;
+    text-align:right;
+    font:15px 'Anonymous Pro';
+    margin-right:-15px;
+    margin-top:8px;
+    letter-spacing:2px
+}
+ 
+.img {
+    background-size:cover;
+    width:400px;
+    height:150px;
+    outline:1px solid;
+    outline-offset:-5px
+}
+ 
+.title {
+    margin-top:-20px;
+    margin-bottom:10px;
+    font:30px 'Dreaming of Lilian';
+}
+ 
+.content {
+    text-align:justify;
+    overflow:auto;
+    max-height:550px;
+    padding:10px;
+    font:14px 'Raleway';
+    margin-top:15px;
+    margin-bottom:20px
+}
+ 
+.signature {
+    font:100px 'Signature';
+    color:#00888a;
+    width:100%;
+}
+ 
+a:hover {
+    letter-spacing:3px;
+    text-shadow: 2px 1px 5px #000;
+    transition:0.5s;
+}
+ 
+</style>
+<link href="https://fonts.googleapis.com/css?family=Raleway|Anonymous+Pro|&amp;display=swap" rel="stylesheet" />
+ 
+<center>
+<div class="background">
+ 
+<div class="header">
+<div style="flex:50%">
+<a href="https://fontmeme.com/old-english-fonts/"><img src="https://fontmeme.com/permalink/201217/d9d63f6cebdb7191b8c8580058d01aae.png" alt="old-english-fonts" border="0"></a></div>
+ 
+<div style="flex:25%">
+<marquee class="edition">|| Édition #001 ||</marquee>
+<br>
+<div class="name"><b>Tyler Alderannian</b><br>
+<span style="color:##790604">Golden Nature Guild</span></div>
+</div>
+ 
+<div style="flex:15%">
+<div class="pic" style="background:url('https://img.memecdn.com/what-a-friendly-bear_o_433783.gif')center;background-size:cover"></div>
+</div>
+</div>
+ 
+<br>
+<div style="border-top:5px double;width:70%"></div>
+<b>
+<div class="img" style="background:url('https://lh3.googleusercontent.com/proxy/4SFXhkqMgMfljwnPa4Y-ZVYCxohxtLnvVHaxXQ30BGIWID-3TdlQm6PtG6xheTiBBjxRKbyHKjwPvA')center"></div>
+<div style="border-bottom:5px double;width:70%"></div>
+ 
+<div class="content">
+<body> <p&ems>Welcome Golden Rays! In this first ever article, I decided to interview two wonderful people, Herma Knowl and Sophie Samson. 
+<p>Miss Samson, can you answer the following questions? Why did you choose to be an Astronomy Practitioner? What exactly do you expect to see out of the students when they take your class? Is there anything you want to tell the Golden Nature covenant?
+
+ <p> Our very own <span style="color: #9ab10a">Sophie Samson</span> agreed willingly with joy upon her face. "Yes, I can answer them. I just really found it to be a joy! Being able to help students out and being able to see them learn and grow is just wonderful! The feeling is also very good. I also chose to be the Practitioner of Astronomy because I love studying the sky and all the secret it has in store just waiting to be told. I expect them to at least pay attention in class and learn something new and important." <span style="color: #9ab10a">Professor Samson</span> thinks that we should all stay happy and healthy. She claims painting has taken up a lot of time and has been keeping her busy. </p> 
+  <p> Thank you <span style="color: #9ab10a">Miss Samson</span>! We all thank you for your wonderful news!
+  <p>Hello <span style="color: #734f96">Mr. Knowl</span>, thank you for agreeing to be a part of this interview. Do you mind answering a few questions?
+  <p><span style="color: #734f96">Mr. Knowl:</span>"Yes, I do believe I can."
+  <p>Ok. Thank you <span style="color: #734f96">Mr. Knowl. </span> Now, what made you interested in the job you have now? Why do you enjoy being a fool? What do you want to tell the Golden Nature Covenant?
+  <p><span style="color: #734f96">Mr. Knowl</span> thinks his job is cool and all. "I saw a severe lack of people interested in the job and wanted something to do. I get a lot of opportunities to flex my creative muscles and I have a pretty nice boss who will give honest feedback on ideas. If you want to do something, even just a little, do it. It might turn out to be loads of fun."
+  <p> Thank you <span style="color: #734f96">Mr. Knowl</span> and <span style= "color: #9ab10a">Professer Samson</span> for participating in this interview. You should know that by now, you guys (and gals) are one of the main foundation of WoFT. I want to congrat you each by having the Golden Nature covenant put Lime and Lavender in the chat for conformation that they read it and agree that you all are heroes.
+  </div>
+
+ 
+<div <center>
+ <img
+                                              src="https://3dtext2gif.com/exported_stickers/_3dtext2gif_skbfdmrtcmen.gif"/></div></b></div>
+</div>
+<br>
+</div>
+</center>
+ 
+<a href="https://audreyscodes.tumblr.com" style="text-decoration:none;color:#000;transition:0.5s"><div style="display:block;font-size:9px;color:#000;text-transform:uppercase;text-decoration:none;font-family:arial;text-align:center;padding:5px;">© By Audrey's Codes</div></a>
+<br><br>
